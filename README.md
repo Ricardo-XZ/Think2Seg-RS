@@ -20,7 +20,8 @@ Examples of Think2Seg-RS on the EarthReason dataset:
 ## 🎉 News
 
 <!-- - **2025/10/23**: Our 3B model weight has been released! 🔥 [Hugging Face](https://huggingface.co/RicardoString/Think2Seg-RS-3B). -->
-- **[2025/10/21]** Our paper is currently under review.
+<!-- - **[2025/10/21]** Our paper is currently under review. -->
+<!-- - **[2025/10/21]** Our paper has been submitted. -->
 
 Code and detailed documentation will be released soon.
 
