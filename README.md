@@ -89,7 +89,7 @@ bash run_scripts/run_grpo_geo_ultra-qwen-3B.sh
 ## 📊 Evaluation
 
 You can use our provided model weights: [Thinki2Seg-RS-3B](https://huggingface.co/RicardoString/Think2Seg-RS-3B) and [Thinki2Seg-RS-7B](https://huggingface.co/RicardoString/Think2Seg-RS-7B), or train your own model.  
-For the 7B model, you can also try [Thinki2Seg-RS-7B-beta](https://huggingface.co/RicardoString/Think2Seg-RS-7B-beta), which produces better natural language outputs.
+<!-- For the 7B model, you can also try [Thinki2Seg-RS-7B-beta](https://huggingface.co/RicardoString/Think2Seg-RS-7B-beta), which produces better natural language outputs. -->
 
 
 Set the required environment variables and run:
