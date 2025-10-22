@@ -4,6 +4,18 @@
 
 </div>
 
+## 🎉 News
+
+<!-- - **2025/10/22**: Our 3B and 7B model weights have been released! 🔥 [Thinki2Seg-RS-3B](https://huggingface.co/RicardoString/Think2Seg-RS-3B), [Thinki2Seg-RS-7B](https://huggingface.co/RicardoString/Think2Seg-RS-7B). -->
+
+- **2025/10/22**: Our 3B and 7B model weights have been released! 🔥  
+  - [🤗 [Thinki2Seg-RS-3B](https://huggingface.co/RicardoString/Think2Seg-RS-3B)]  
+  - [🤗 [Thinki2Seg-RS-7B](https://huggingface.co/RicardoString/Think2Seg-RS-7B)]
+
+<!-- - **[2025/10/21]** Our paper is currently under review. -->
+<!-- - **[2025/10/21]** Our paper has been submitted. -->
+
+
 ## 📖 Overview
 
 This is the official implementation of **Think2Seg-RS**, a decoupled framework for reasoning segmentation in remote sensing (RS) imagery.
@@ -16,18 +28,6 @@ Examples of Think2Seg-RS on the EarthReason dataset:
 
 
 <!-- Large Vision–Language Models (LVLMs) hold great promise for advancing remote sensing (RS) analysis, yet existing reasoning segmentation frameworks couple linguistic reasoning and pixel prediction through end-to-end supervised fine-tuning, leading to weak geometric grounding and limited generalization across tasks. To address this, we developed Think2Seg-RS, a decoupled framework that trains an LVLM prompter to control a frozen Segment Anything Model (SAM) via structured geometric prompts. Through a mask-only reinforcement learning objective, the LVLM learns to translate abstract semantic reasoning into spatially grounded actions, achieving state-of-the-art performance on the EarthReason dataset. Remarkably, the learned prompting policy generalizes zero-shot to multiple referring segmentation benchmarks, exposing a distinct divide between semantic-level and instance-level grounding. We further found that compact segmenters outperform larger ones under semantic-level supervision, and that negative prompts are ineffective in heterogeneous aerial backgrounds. Together, these findings establish semantic-level reasoning segmentation as a new paradigm for geospatial understanding, opening the way toward unified, interpretable LVLM-driven Earth observation. -->
-
-## 🎉 News
-
-<!-- - **2025/10/22**: Our 3B and 7B model weights have been released! 🔥 [Thinki2Seg-RS-3B](https://huggingface.co/RicardoString/Think2Seg-RS-3B), [Thinki2Seg-RS-7B](https://huggingface.co/RicardoString/Think2Seg-RS-7B). -->
-
-- **2025/10/22**: Our 3B and 7B model weights have been released! 🔥  
-  - [Thinki2Seg-RS-3B](https://huggingface.co/RicardoString/Think2Seg-RS-3B)  
-  - [Thinki2Seg-RS-7B](https://huggingface.co/RicardoString/Think2Seg-RS-7B)
-
-<!-- - **[2025/10/21]** Our paper is currently under review. -->
-<!-- - **[2025/10/21]** Our paper has been submitted. -->
-
 
 ## 🛠️ Setup
 
