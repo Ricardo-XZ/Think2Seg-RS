@@ -7,7 +7,7 @@
 ## 🎉 News
 
 - **2025/12/22**: 
-  - A preprint version of our paper is now available on [arxiv](https://arxiv.org/pdf/2512.19302).
+  - A preprint version of our paper is now available on [arxiv](https://arxiv.org/abs/2512.19302).
 - **2025/10/22**: Our 3B and 7B model weights have been released! 🔥  
   - [🤗 [Think2Seg-RS-3B](https://huggingface.co/RicardoString/Think2Seg-RS-3B)]  
   - [🤗 [Think2Seg-RS-7B](https://huggingface.co/RicardoString/Think2Seg-RS-7B)]
