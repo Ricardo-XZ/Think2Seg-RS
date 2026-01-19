@@ -199,7 +199,10 @@ def main(script_args, training_args, model_args):
     reward_funcs = []
 
     ################ GEO_Reward_Func_Ultra #############
-    geo_reward_func = GEO_Reward_Func_Ultra(script_args.sam_model_size, script_args.sam_root, script_args.sam_device)
+    local_rank = int(os.environ.get("LOCAL_RANK", 0))
+    device = f"cuda:{local_rank}" 
+
+    geo_reward_func = GEO_Reward_Func_Ultra(script_args.sam_model_size, script_args.sam_root, device)
     reward_funcs.append(geo_reward_func.sam_reward_func_ultra)
     reward_funcs.append(geo_reward_func.sam_format_reward)
     reward_funcs.append(geo_reward_func.thk_ans_format_reward)
