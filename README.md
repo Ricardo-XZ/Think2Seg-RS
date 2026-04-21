@@ -1,11 +1,12 @@
 <div align="center">
 
-## Bridging Semantics and Geometry: A Decoupled LVLM–SAM Framework for Reasoning Segmentation in Remote Sensing
+## Bridging Semantics and Geometry: A Decoupled LVLM–SAM Framework for Reasoning Segmentation in Optical Remote Sensing
 
 </div>
 
 ## 🎉 News
-
+- **2026/4/20**
+  - Our paper has been accepted by the **ISPRS Journal of Photogrammetry and Remote Sensing**! 🎉
 - **2025/12/22**: 
   - A preprint version of our paper is now available on [arxiv](https://arxiv.org/abs/2512.19302).
 - **2025/10/22**: Our 3B and 7B model weights have been released! 🔥  
