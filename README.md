@@ -5,8 +5,8 @@
 </div>
 
 ## 🎉 News
-- **2026/4/20**
-  - Our paper has been accepted by the **ISPRS Journal of Photogrammetry and Remote Sensing**! 🎉
+- **2026/4/26**
+  - Our paper has been officially published in the [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/science/article/pii/S0924271626002091).🎉
 - **2025/12/22**: 
   - A preprint version of our paper is now available on [arxiv](https://arxiv.org/abs/2512.19302).
 - **2025/10/22**: Our 3B and 7B model weights have been released! 🔥  
